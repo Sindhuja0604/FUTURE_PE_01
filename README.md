@@ -54,6 +54,6 @@ I chose to showcase *SmartGrow*, a smart gardening kit that uses sensors and aut
 ---
 
 ## 🎥 Final Video Output
-▶️ *Watch the Video: 
+▶️ *Watch the Video: [Watch Video](https://github.com/Sindhuja0604/FUTURE_PE_01/blob/main/Marketing%20Video.mp4)
 
 📁 *File Structure:*
