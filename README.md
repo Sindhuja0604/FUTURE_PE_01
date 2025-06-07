@@ -54,6 +54,37 @@ I chose to showcase *SmartGrow*, a smart gardening kit that uses sensors and aut
 ---
 
 ## 🎥 Final Video Output
-▶️ *Watch the Video: [Watch Video](https://github.com/Sindhuja0604/FUTURE_PE_01/blob/main/Marketing%20Video.mp4)
+▶️ *Watch the Video: [FUTURE_INTERN_TASK 1](https://github.com/Sindhuja0604/FUTURE_PE_01/blob/main/Marketing%20Video.mp4)
 
-📁 *File Structure:*
+📁 *File Structure:* SMARTGROW_VIDEO.mp4 # Final marketing video
+├── README.md # Project documentation
+├── assets/ # (Optional: script, images, extras
+
+## 💡 Key Learnings
+Creating this AI-powered video taught me how to:
+- Translate a product concept into a compelling marketing story  
+- Use AI tools (DALL·E, Canva) to efficiently generate media assets  
+- Combine scriptwriting, voiceover, and editing into a cohesive visual narrative
+  # 🚧 Challenges Faced
+
+- Finding image prompts that matched every scene in the script
+- Ensuring visual consistency and branding across AI-generated images
+- Adjusting timing and text overlay sync during video editing
+- Compressing the video to meet GitHub upload limits (100 MB)
+
+---
+
+## 🙏 Credits
+
+- *OpenAI DALL·E* – for image generation  
+- *Canva* – for video layout, voiceover, and music  
+- *Future Intern* – for the prompt engineering internship opportunity  
+- *GitHub* – for version control and sharing the project
+
+---
+
+## 👩‍💻 Created By
+
+*Karupakula Sindhuja*  
+Prompt Engineering Intern – Future Intern  
+🌐 [GitHub Profile](https://github.com/Sindhuja0604)
